@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Externship Assignment 1</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="glasspane">    
+        <form name="form1" method="post" >
+            <table>
+            <tr>
+                <td><label>First name:&nbsp;</label></td>
+                <td><input name="firstname" id="firstname"/></td>
+            </tr>
+            <tr>
+                <td><label>Last name:&nbsp;</label></td>
+                <td><input name="lastname" id="lastname"/></td>
+            </tr>
+            <tr>
+                <td><label>Age:&nbsp;</label></td>
+                <td><input name="age" id="age"/></td>
+            </tr>
+            <tr>
+                <td><label>Gender:&nbsp;</label></td>
+                <td><input type="radio" name="gender" value="Male"> Male <br>  
+                    <input type="radio" name="gender" value="Female"> Female<br>  </td>
+            </tr>
+            <tr>
+                <td><label>Address:&nbsp;</label></td>
+                <td><textarea id="address" name="address" cols="20" rows="10"></textarea></td>
+            </tr>
+            <tr>
+                <td><button id="submit" onclick="submitForm()">Submit</button></td>
+            </tr>
+            </table>
+        </form>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
