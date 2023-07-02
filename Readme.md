@@ -4,8 +4,8 @@
 
 `https://drive.google.com/file/d/1rXN9p9YNnXNfBqsUbYH0u2ywxScdZQFO/view?usp=sharing`
 ## Overview
-`Campus Connect is a web application developed to streamline and automate various administrative tasks within a campus or educational institution. It aims to provide a centralized platform for students, faculty members, administrators, and staff to access and manage campus-related information and services.
-`
+Campus Connect is a web application developed to streamline and automate various administrative tasks within a campus or educational institution. It aims to provide a centralized platform for students, faculty members, administrators, and staff to access and manage campus-related information and services.
+
 ## Technologies Used
 - Frontend:
     - React.js: A JavaScript library for building user interfaces.
@@ -20,3 +20,6 @@
 `To run the Campus Connect web app locally, you need to have the following software installed:
 `- Node.js
 - XAMPP (or any other MySQL server)
+
+
+
