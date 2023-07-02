@@ -3,6 +3,11 @@
 ## Video Link - Demonstration
 
 `https://drive.google.com/file/d/1rXN9p9YNnXNfBqsUbYH0u2ywxScdZQFO/view?usp=sharing`
+
+## Frontend
+
+The repo for frontend is as here :
+`https://github.com/adarsh-jha1611/Campus-connectFrontend.git`
 ## Overview
 Campus Connect is a web application developed to streamline and automate various administrative tasks within a campus or educational institution. It aims to provide a centralized platform for students, faculty members, administrators, and staff to access and manage campus-related information and services.
 
